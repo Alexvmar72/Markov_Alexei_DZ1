@@ -17,7 +17,7 @@
 
 1. git config --global user.name "Тут ввести своё имя"
 
-2. git config --global user.email "Тут ввести адрес своей элетронной почты"
+2. git config --global user.email "Тут ввести адрес своей электронной почты"
 
 **Поздравляю, Вы готовы к работе в GIT!**
 
